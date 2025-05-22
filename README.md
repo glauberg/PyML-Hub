@@ -3,8 +3,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/username/pyml-hub.svg)](https://github.com/username/pyml-hub/issues)
-[![GitHub stars](https://img.shields.io/github/stars/username/pyml-hub.svg)](https://github.com/username/pyml-hub/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/glauberg/pyml-hub.svg)](https://github.com/glauberg/pyml-hub/issues)
+[![GitHub stars](https://img.shields.io/github/stars/glauberg/pyml-hub.svg)](https://github.com/glauberg/pyml-hub/stargazers)
 
 ## 📖 Sobre o Projeto
 
@@ -81,7 +81,7 @@ pyml-hub/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/username/pyml-hub.git
+git clone https://github.com/glauberg/pyml-hub.git
 cd pyml-hub
 ```
 
