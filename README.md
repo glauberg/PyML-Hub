@@ -195,8 +195,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@username](https://github.com/glauberg)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/glauberg)
+- GitHub: [@glauberg](https://github.com/glauberg)
+- LinkedIn: [glauberg](https://linkedin.com/in/glauberg)
 - Email: glauber.galvao@gmail.com
 
 ## 🙏 Agradecimentos
