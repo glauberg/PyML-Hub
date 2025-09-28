@@ -8,7 +8,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este repositório contém uma coleção de projetos de Machine Learning desenvolvidos em Python, abrangendo diferentes técnicas e aplicações de inteligência artificial. Os projetos são organizados por categoria e incluem exemplos práticos, datasets e análises detalhadas.
+Este repositório contém uma coleção de projetos de Machine Learning para uso educacional, desenvolvidos em Python e abrangendo diferentes técnicas e aplicações de inteligência artificial. Os projetos são organizados por categoria e incluem exemplos práticos, datasets e análises detalhadas.
 
 ## 🎯 Objetivos
 
